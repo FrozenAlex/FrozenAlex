@@ -1,5 +1,5 @@
 ### Welcome! I'm FrozenAlex
-<img src="https://github-readme-stats.vercel.app/api?username=FrozenAlex&show_icons=true&theme=dark&custom_title=FrozenAlex&ring_color=008c99&icon_color=008c99" />
+<img src="https://github-readme-stats.vercel.app/api?username=FrozenAlex&show_icons=true&theme=dark&ring_color=008c99&icon_color=008c99&hide_title=true" />
 
 
 <!--
