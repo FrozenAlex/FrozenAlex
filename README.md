@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome! I'm FrozenAlex
+<img src="https://github-readme-stats.vercel.app/api?username=FrozenAlex&show_icons=true&theme=dark&custom_title=FrozenAlex&ring_color=008c99&icon_color=008c99" />
+
 
 <!--
 **FrozenAlex/FrozenAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
